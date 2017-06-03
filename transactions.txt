@@ -1,0 +1,13 @@
+Sarah Adam Commerce_street,Tacoma 13.900000 1 2 2016
+4028 STRAWBERRIES_PINT 10 0.990000
+1224 vegetable_frozen_mix 1 4.000000
+
+Sam Smith Market_street,Tacoma 279.000000 3 1 2016
+1234 pendrive 3 15.000000
+1112 LG_TV_32_inch 1 230.000000
+1224 vegetable_frozen_mix 1 4.000000
+
+Charles Gorge Univeristy_Place,Tacoma 14.890000 10 1 2016
+4028 STRAWBERRIES_PINT 1 0.990000
+9401 ORGANIC_BANANAS 10 0.990000
+1224 vegetable_frozen_mix 1 4.000000
